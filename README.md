@@ -1,2 +1,2 @@
 # Terraform_AWS
-Infrastructure with EC2, SG, RDS
+Infrastructure with EC2(+bastion), SG, RDS
